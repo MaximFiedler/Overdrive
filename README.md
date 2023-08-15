@@ -1,5 +1,4 @@
 # **Overdrive**
-![Easy mode?!? Only elementary school kids play in easy mode.](https://i.ytimg.com/vi/aEIKunHflIo/hqdefault.jpg)  
 *Why play at 20 TPS when you can play at 200?!?*
 
 ## **What is this?**
